@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fraud idle"
+		},
+		{
+			"offsets": [
+				15,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fraud left"
+		},
+		{
+			"offsets": [
+				-3,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fraud down"
+		},
+		{
+			"offsets": [
+				-13,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fraud up"
+		},
+		{
+			"offsets": [
+				-26,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fraud right"
+		},
+		{
+			"offsets": [
+				17,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "fraud l bb"
+		},
+		{
+			"offsets": [
+				-3,
+				21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "fraud d bb"
+		},
+		{
+			"offsets": [
+				-13,
+				91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "fraud u bb"
+		},
+		{
+			"offsets": [
+				-26,
+				49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "fraud r bb"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/newfraud",
+	"position": [
+		110,
+		310
+	],
+	"healthicon": "icon-fraud",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		116,
+		169
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

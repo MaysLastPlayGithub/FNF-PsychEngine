@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "receiveridle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "receiverup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "receiverdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "receiverleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				15
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "receiverright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "death",
+			"indices": [],
+			"name": "receiverdead"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Receiver",
+	"position": [
+		-440,
+		160
+	],
+	"healthicon": "icon-receiver",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		234,
+		255
+	],
+	"camera_position": [
+		30,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.00000000000001
+}

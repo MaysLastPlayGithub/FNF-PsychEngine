@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				61
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "StanShadowidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				64
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "StanShadowLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "StanShadowDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "StanShadowUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				62
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "StanShadowRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Stan_shadow",
+	"position": [
+		-520,
+		-100
+	],
+	"healthicon": "icon-stan",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		60,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}
